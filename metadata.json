@@ -1,0 +1,6 @@
+{
+  "name": "MatchPoint AI - College Court Reservation",
+  "description": "Instant college court reservation system with live availability sync, student verification, and facility schedule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
